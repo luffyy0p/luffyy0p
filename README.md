@@ -2,15 +2,13 @@
 
 Welcome to my field oif play ! I'm [Adithya krishna.R], a skilled cybersecurity professional specializing in identifying vulnerabilities, securing networks, and providing actionable security solutions. 
 
-## 📚 About Me
+## 🕵️ Who am i 
 
 I am passionate about securing digital environments and helping organizations strengthen their security posture through penetration testing and vulnerability assessments. With experience in both manual testing and automated tools, I focus on discovering security gaps and recommending practical solutions.
 
-- **Name**: [Adithya krishna.R]
-- **Location**: [India]
-- **Email**: [adithyakrishnar589@gmail.com]
 
-### 💼 Skills & Expertise🎖️
+
+### 💼 Skills & Expertise
 - **Penetration Testing**: Web applications, networks, wireless, and mobile applications
 - **Tools & Techniques**: Burp Suite, Metasploit, Nmap, Wireshark, Nikto, OWASP ZAP, Hydra, SQLmap, Nessus, and more
 - **Programming Languages**: Python, Bash, PowerShell, JavaScript, SQL
