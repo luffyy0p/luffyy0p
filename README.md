@@ -8,6 +8,8 @@ Welcome to my field of play ! I'm  a skilled cybersecurity professional speciali
 
 ## 🕵️ Who am i 
 
+<img src="https://media1.tenor.com/m/rgegj1AOR1IAAAAd/awkward-black.gif"/>
+
 Hello! I am Adithyakrishna a Cyber Security Analyst and Penetration tester. I am passionate about securing digital environments and helping organizations strengthen their security posture through penetration testing and vulnerability assessments. With experience in both manual testing and automated tools, I focus on discovering security gaps and recommending practical solutions.
 
 ---
@@ -30,7 +32,16 @@ Here are some of the tools i use while working
 ---
 ## Me when it's Go time 🚨
 <img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZtM2IydjNseWM3dzRqcXBmenZvNnYzemNoOWlqanVpdTlqZzdlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vgi5B3KLFC3s0bNGFi/giphy.gif"/>
-*When i'm deeply looking for vulnerabilities*
+
+## *When i'm deeply in pentesting*
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBrb21ia3FoODI1MG1zZXFvaTNzOGoyZGJ0cTZlaXR2djd6N2NpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif"/>
+
+## *When nothing is found*
+<img src="https://media1.tenor.com/m/nvLI5ft4bqAAAAAd/cloris-leach.gif"/>
+
+## *When i finally get the result*
+
+<img src="https://media1.tenor.com/m/f4Lar3AwBVQAAAAd/this-is-elon-musk.gif"/>
 
 
 
@@ -54,6 +65,7 @@ Feel free to reach out to me for collaboration opportunities, questions, or cons
 - Always learning new thing a day  
 
 ---
+<img src="https://media1.tenor.com/m/qVKlQMB2DpsAAAAd/hacker-hacking.gif"/>
 
 ## 💡 License
 
