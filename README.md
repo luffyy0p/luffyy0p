@@ -1,34 +1,29 @@
 # Penetration Tester| Security Analyst
 
-Welcome to my field oif play ! I'm [Adithya krishna.R], a skilled cybersecurity professional specializing in identifying vulnerabilities, securing networks, and providing actionable security solutions. 
+Welcome to my field oif play ! I'm  a skilled cybersecurity professional specializing in identifying vulnerabilities, securing networks, and providing actionable security solutions. 
 
 ## 🕵️ Who am i 
 
-I am passionate about securing digital environments and helping organizations strengthen their security posture through penetration testing and vulnerability assessments. With experience in both manual testing and automated tools, I focus on discovering security gaps and recommending practical solutions.
+Hello! I am Adithyakrishna a Cyber Security Analyst and Penetration tester. I am passionate about securing digital environments and helping organizations strengthen their security posture through penetration testing and vulnerability assessments. With experience in both manual testing and automated tools, I focus on discovering security gaps and recommending practical solutions.
 
 
 
-### 💼 Skills & Expertise
-- **Penetration Testing**: Web applications, networks, wireless, and mobile applications
-- **Tools & Techniques**: Burp Suite, Metasploit, Nmap, Wireshark, Nikto, OWASP ZAP, Hydra, SQLmap, Nessus, and more
-- **Programming Languages**: Python, Bash, PowerShell, JavaScript, SQL
-- **Vulnerability Assessment**: Static and dynamic analysis, risk prioritization, and remediation strategies
+### 💼 What do i do 
+- Assesing Vulnerablities 🔎
+- Pentesting 🔧
+- Securing Systems 🔐
+-  Analysing Systems 👁️
+-  Making reports 📑
 
+## 🛠️ Work buddies
 
-## 🛠️ Tools I Use
+Here are some of the tools i use while working
 
-I leverage a wide range of penetration testing and vulnerability assessment tools to identify, exploit, and mitigate security risks. Here's a list of the tools I frequently use:
-
-- **Burp Suite**: For web application testing and vulnerability scanning.
-- **Metasploit**: For exploit development and penetration testing.
-- **Nmap**: For network mapping, port scanning, and vulnerability scanning.
-- **Wireshark**: For network traffic analysis.
-- **SQLmap**: For SQL injection exploitation.
-- **John the Ripper**: For password cracking and analysis.
-- **Nikto**: For web server scanning and vulnerability identification.
-
----
-
+- **Burp Suite**<img src=![image](https://github.com/user-attachments/assets/22cf24f3-9d14-47b7-9733-6f6c1ff633d9)
+/>
+- **FFUF**
+- **Nmap**
+- 
 
 ## 🧑‍💻 Contact Me
 
