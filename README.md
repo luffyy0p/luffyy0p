@@ -19,7 +19,7 @@ Hello! I am Adithyakrishna a Cyber Security Analyst and Penetration tester. I am
 
 Here are some of the tools i use while working
 
-- **Burp Suite** <img src="https://icon-icons.com/icons2/3053/PNG/96/burp_suite_macos_bigsur_icon_190319.png"/>
+- **Burp Suite** <img src="https://icon-icons.com/icons2/3053/PNG/96/burp_suite_macos_bigsur_icon_190319.png" width="20"/>
 - **FFUF**
 - **Nmap**
 - 
