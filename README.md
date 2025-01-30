@@ -1,6 +1,6 @@
-# Penetration Tester Portfolio
+# Penetration Tester| Security Analyst
 
-Welcome to my Penetration Testing portfolio! I'm [Adithya krishna.R], a skilled cybersecurity professional specializing in identifying vulnerabilities, securing networks, and providing actionable security solutions. In this repository, you will find an overview of my skills, certifications, and real-world penetration testing projects that demonstrate my expertise in ethical hacking and security assessments.
+Welcome to my field oif play ! I'm [Adithya krishna.R], a skilled cybersecurity professional specializing in identifying vulnerabilities, securing networks, and providing actionable security solutions. 
 
 ## 📚 About Me
 
@@ -10,7 +10,7 @@ I am passionate about securing digital environments and helping organizations st
 - **Location**: [India]
 - **Email**: [adithyakrishnar589@gmail.com]
 
-### 💼 Skills & Expertise
+### 💼 Skills & Expertise🎖️
 - **Penetration Testing**: Web applications, networks, wireless, and mobile applications
 - **Tools & Techniques**: Burp Suite, Metasploit, Nmap, Wireshark, Nikto, OWASP ZAP, Hydra, SQLmap, Nessus, and more
 - **Programming Languages**: Python, Bash, PowerShell, JavaScript, SQL
