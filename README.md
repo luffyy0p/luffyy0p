@@ -51,9 +51,9 @@ Here are some of the tools i use while working
 
 Feel free to reach out to me for collaboration opportunities, questions, or consulting services!
 
-- **Email**: [adithyakrishnar589@gmail.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
+- **Email**: adithyakrishnar589@gmail.com
+- **LinkedIn**: 
+- **Twitter**: 
 
 ---
 
